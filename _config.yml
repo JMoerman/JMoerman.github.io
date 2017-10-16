@@ -18,7 +18,7 @@ title: Jonathan Moerman
 description: >- # this means to ignore newlines until "baseurl:"
   Site is a work in progress. I need to put some good description here...
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "jmoerman.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jmoerman.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username: JMoerman
 gplus_username: JonathanMoerman
