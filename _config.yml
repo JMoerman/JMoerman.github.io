@@ -16,7 +16,7 @@
 title: Jonathan Moerman
 #email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Site is a work in progress. I need to put some good description here...
+  Personal posts and projects
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jmoerman.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
