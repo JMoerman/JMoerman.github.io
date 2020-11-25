@@ -1,0 +1,5 @@
+.blog-theme-class {
+  background-image: url('../images/banner.jpg');
+  background-position: center center;
+  background-size: cover;
+}

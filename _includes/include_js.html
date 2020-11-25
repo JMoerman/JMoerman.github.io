@@ -1,0 +1,18 @@
+    <script type="text/javascript">
+      var font_awesome = document.createElement('link');
+      font_awesome.rel = 'stylesheet';
+      font_awesome.href = 'https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css';
+      font_awesome.type = 'text/css';
+      var godefer = document.getElementsByTagName('link')[0];
+      godefer.parentNode.insertBefore(font_awesome, godefer);
+    </script>
+    <noscript><link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"></noscript>
+    <script type="text/javascript">
+      var banner = document.createElement('link');
+      banner.rel = 'stylesheet';
+      banner.href = '{{ "/css/banner.css" | prepend: site.baseurl }}';
+      banner.type = 'text/css';
+      var godefer = document.getElementsByTagName('link')[0];
+      godefer.parentNode.insertBefore(banner, godefer);
+    </script>
+    <noscript><link rel="stylesheet" href="{{ "/css/banner.css" | prepend: site.baseurl }}"></noscript>
