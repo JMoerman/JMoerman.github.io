@@ -53,3 +53,11 @@ $navbar-size: 64px;
         "layout",
         "syntax-highlighting"
 ;
+
+#navbar-toggle-cbox:checked ~ .collapse {
+    display: block;
+}
+
+#navbar-toggle-cbox {
+  display:none
+}
