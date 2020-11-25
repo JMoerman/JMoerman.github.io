@@ -3,7 +3,7 @@
       font_awesome.rel = 'stylesheet';
       font_awesome.href = 'https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css';
       font_awesome.type = 'text/css';
-      $('head').append (font_awesome);
+      document.head.appendChild(font_awesome);
     </script>
     <noscript><link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"></noscript>
     <script type="text/javascript">
@@ -11,6 +11,6 @@
       banner.rel = 'stylesheet';
       banner.href = '{{ "/css/banner.css" | prepend: site.baseurl }}';
       banner.type = 'text/css';
-      $('head').append (banner);
+      document.head.appendChild(banner);
     </script>
     <noscript><link rel="stylesheet" href="{{ "/css/banner.css" | prepend: site.baseurl }}"></noscript>
