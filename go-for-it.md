@@ -37,6 +37,7 @@ Know more than one language? It would be great if you could help translate the a
 
 ### Links
 
-[Manuel Kehl](http://manuel-kehl.de/about-me/) was the original author of Go For It! his page on this application can be found [here](http://manuel-kehl.de/projects/go-for-it/).
+[Manuel Kehl](http://manuel-kehl.de/about-me/) was the original author of Go For It!
+His page on this application can be found [here](http://manuel-kehl.de/projects/go-for-it/).
 
 Noticed any issues with this page? Feel free to report an issue at this website's [GitHub repo](https://github.com/JMoerman/JMoerman.github.io)!
