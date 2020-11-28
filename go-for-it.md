@@ -4,14 +4,13 @@ title: Go For It!
 permalink: /go-for-it/
 ---
 
-# Go For It!
 _Go For It!_ is a simple and stylish productivity app, featuring a to-do list, merged with a timer that keeps your focus on the current task.
 
 ### Workflow
 
 The original author made the following video explaining the workflow of _Go For It!_:
 
-[![Go For It! Promotion Video](http://img.youtube.com/vi/mnw556C9FZQ/0.jpg)](https://www.youtube.com/watch?v=mnw556C9FZQ)
+[![Go For It! Promotion Video](https://img.youtube.com/vi/mnw556C9FZQ/0.jpg)](https://www.youtube.com/watch?v=mnw556C9FZQ)
 
 This video shows a very old version of _Go For It!_, but most of what is shown still applies to the current version.
 
